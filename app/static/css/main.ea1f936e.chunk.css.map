@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/main.css"],"names":[],"mappings":"AAAA,KAEE,SAAU,CACV,QAAS,CACT,iBACF,CAEA,KACE,+BACF","file":"main.ea1f936e.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  margin: 0;\n  position: relative;\n}\n\nhtml {\n  font-family: 'Ubuntu', sans-serif;\n}"]}
