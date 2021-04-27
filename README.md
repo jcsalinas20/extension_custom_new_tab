@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## Manifest
+https://developer.chrome.com/docs/extensions/mv3/manifest/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
