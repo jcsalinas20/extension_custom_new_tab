@@ -3,6 +3,9 @@
 ## Manifest
 https://developer.chrome.com/docs/extensions/mv3/manifest/
 
+## localStorage Max Size
+https://www.geeksforgeeks.org/what-is-the-max-size-of-localstorage-values/#:~:text=Data%20stored%20using%20local%20storage%20isn%E2%80%99t%20sent%20back,of%20data%20depending%20upon%20the%20browser%20we%20use.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
